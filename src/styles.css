@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Bootstrap CSS is already imported in angular.json */
+/* You can add custom Bootstrap overrides here if needed */
+
+/* Example: Custom Bootstrap variables */
+:root {
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
+}
